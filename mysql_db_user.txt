@@ -1,0 +1,5 @@
+{user_name_get}:{password_get}
+
+dhieu:1703
+dkhoa:2702
+mhuy:1102
